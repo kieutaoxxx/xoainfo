@@ -1,4 +1,4 @@
-Package: com.ryleyangus.libertylite_0.2.10
+Package: com.ryleyangus.libertylite
 Name: libertylite
 Version: 0.2.10
 Architecture: iphoneos-arm
@@ -35,7 +35,7 @@ Package: com.ienthach.XoaInfo2018
 Name: XoaInfo2018
 Version: 1.2.2-4
 Architecture: iphoneos-arm
-Description: Tweak Support for AutoleadXXX
+Description: Tweak Support for Xoainfo
 Maintainer: Dev by TueMobi
 Author: AutoleadXXX
 Section: Tweaks
