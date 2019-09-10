@@ -1,0 +1,44 @@
+Package: com.ryleyangus.libertylite_0.2.10
+Name: libertylite
+Version: 0.2.10
+Architecture: iphoneos-arm
+Description: Tweak Support for Xoainfo
+Author: AutoleadXXX
+Section: Tweaks
+Filename: ./8.1/16_com.ryleyangus.libertylite_0.2.10_iphoneos-arm.deb
+Size: 46610
+MD5sum: de8005d35c2204becf725c327f68e1e5
+
+Package: com.kidsauto.gpscheat
+Name: gpscheat
+Version: 1.1-4
+Architecture: iphoneos-arm
+Description: Tweak Support for Xoainfo
+Author: AutoleadXXX
+Section: Tweaks
+Filename: ./8.1/18_gpscheat_1.1-4.deb
+Size: 225420
+MD5sum: 112500bf435982c4a9f1551816b794b3
+
+Package: com.ienthach.ChangeAppleID
+Name: ChangeAppleID
+Version: 1.4
+Architecture: iphoneos-arm
+Description: Tweak Support for Xoainfo
+Author: AutoleadXXX
+Section: Tweaks
+Filename: ./8.1/com.ienthach.ChangeAppleID_1.4_iphoneos-arm.deb
+Size: 1812484
+MD5sum: b8e1911fe8b2d8c2a6cb3dfce1e1ac69
+
+Package: com.ienthach.XoaInfo2018
+Name: XoaInfo2018
+Version: 1.2.2-4
+Architecture: iphoneos-arm
+Description: Tweak Support for AutoleadXXX
+Maintainer: Dev by TueMobi
+Author: AutoleadXXX
+Section: Tweaks
+Filename: ./8.1/XoaInfo2018_1.2.2-4_Nam.deb
+Size: 2580732
+MD5sum: e8c95998647ecad352d396060d8e2e1d
